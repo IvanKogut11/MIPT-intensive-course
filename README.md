@@ -1,2 +1,2 @@
-# MIPT-intensive-course
-All the code showed during lectures at MIPT intensive course
+# RuCode-intensive-course
+All the code showed during lectures at RuCode intensive lectures
